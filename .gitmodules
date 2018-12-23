@@ -1,0 +1,12 @@
+[submodule "resources/non_linear_programming"]
+	path = resources/non_linear_programming
+	url = https://github.com/erachelson/OptimClass
+[submodule "resources/constraint_programming"]
+	path = resources/constraint_programming
+	url = https://github.com/xoolive/edu_constraints
+[submodule "resources/metaheuristics"]
+	path = resources/metaheuristics
+	url = https://github.com/xoolive/edu_metaheuristics
+[submodule "resources/python"]
+	path = resources/python
+	url = https://github.com/xoolive/edu_back2python
