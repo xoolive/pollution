@@ -3,7 +3,7 @@
 Pour démarrer le projet:
 
 ```
-git clone --recurse-submodules -j4 https://github.com/xoolive/edu_pollution
+git clone --recurse-submodules  https://github.com/letstrythat/edf
 ```
 
 Pour charger un environnement convenable, sur les machines du centre info:
@@ -14,6 +14,3 @@ source activate ~x.olive/students
 jupyter notebook
 ```
 
-Pour créer une clé MapQuest:
-
-https://developer.mapquest.com/
