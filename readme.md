@@ -3,10 +3,10 @@
 Pour démarrer le projet:
 
 ```
-git clone --recurse-submodules  https://github.com/letstrythat/edf
+git clone --recurse-submodules  https://github.com/poitou/ETE
 ```
 
-Pour charger un environnement convenable, sur les machines du centre info:
+Pour charger un environnement convenable, *sur les machines du centre info*:
 
 ```
 module load python/3.6
