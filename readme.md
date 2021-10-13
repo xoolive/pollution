@@ -1,19 +1,32 @@
 ## Étude de cas
 
-Pour démarrer le projet:
+Pour récupérer le projet (sous Windows voir plus bas):
 
 ```
-git clone --recurse-submodules -j4 https://github.com/xoolive/edu_pollution
+git clone --recurse-submodules https://github.com/poitou/ETE
 ```
 
-Pour charger un environnement convenable, sur les machines du centre info:
+Pour charger un environnement convenable, **sur les machines du centre info**:
 
 ```
-module load python/3.6
+module load python/3.7
 source activate ~x.olive/students
 jupyter notebook
 ```
 
-Pour créer une clé MapQuest:
+Pour charger un environnement convenable, **sur vos machines perso**:
 
-https://developer.mapquest.com/
+ 1. Installer Anaconda pour votre OS, puis 
+
+ 2. dans un "Anaconda Prompt" lancez les commandes suivantes :
+
+```
+conda env create -f optim.yml
+conda activate isae
+
+// seulement si sous Windows et avant le git clone ...
+conda install git         
+
+jupyter notebook
+```
+
