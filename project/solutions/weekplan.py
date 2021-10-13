@@ -1,3 +1,4 @@
+# %load solutions/weekplan.py
 # minimisation problem
 tprob = pulp.LpProblem("Week",pulp.LpMinimize)
 

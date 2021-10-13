@@ -1,3 +1,4 @@
+# %load solutions/24h.py
 # a solution :
 # minimisation problem
 tprob = pulp.LpProblem("Test",pulp.LpMinimize)

@@ -1,3 +1,4 @@
+# %load solutions/24hbattery.py
 # if p1 is a perfect battery
 
 # a solution :
