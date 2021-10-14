@@ -19,5 +19,4 @@ dependencies:
   - scipy
   - pip:
     - cma>=2.7.0
-    - facile>=1.5
 
